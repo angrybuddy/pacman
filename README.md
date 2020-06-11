@@ -1,7 +1,6 @@
 # Fork
 
-This is a fork of the pac man replica,
-Now trying to run it into an android app
+This is a fork of the pac man replica, now trying to run it into an android app, does not work properly anyway
 
 # Pac-Man
 
