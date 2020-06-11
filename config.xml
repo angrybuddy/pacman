@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.angrybud.pacman"
+    android-versionCode = "420"
+    version     = "420" >
+
+<!-- versionCode is optional and Android only -->
+  <platform name="android" />
+
+  <content src="index.html"></content>
+
+  <name>Pac Man</name>
+
+  <description>
+      Open source version of the game, personal use, GNU license
+  </description>
+
+  <author href="https://angrybud.com" email="support@angrybud.com">
+      ANGRYBUD
+  </author>
+
+  <icon src="icon.png" />
+
+  <preference name="fullscreen" value="true" />
+  <preference name="orientation" value="portrait" />
+</widget>
